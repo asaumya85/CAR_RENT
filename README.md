@@ -1,4 +1,4 @@
-#  Car Rental System
+#  Car Rental Sys
 
  **Car Rental System**, a Java-based console application that combines learning and simulation.
 
